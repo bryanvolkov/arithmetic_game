@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SumGame Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="next">Next</string>
+    <string name="closingMessage">Quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="timerVal">00:00:00</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="ok">OK</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="play">Play</string>
+
+</resources>
